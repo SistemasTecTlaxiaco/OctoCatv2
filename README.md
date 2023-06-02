@@ -47,7 +47,10 @@ Esta tecnología, al integrar ambos planos en un mismo visor, permite interactua
     <td style="width: 33%;">Adolfo German Vasquez Rojas</td>
     <td style="width: 33%;">Lider del proyecto</td>
   </tr>
- 
+  <tr>
+    <td style="width: 33%;">Yabin España Aparicio</td>
+    <td style="width: 33%;">Programador</td>
+  </tr> 
 </table>
 
 
