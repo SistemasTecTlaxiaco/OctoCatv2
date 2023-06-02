@@ -66,6 +66,7 @@ Esta tecnología, al integrar ambos planos en un mismo visor, permite interactua
 ## Estilo de letra utilizada (Bebas Neue)
 - https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap
 # LINK DE PROYECTO
+- https://frost-insidious-carrot.glitch.me/ 
 ## 
 
 
